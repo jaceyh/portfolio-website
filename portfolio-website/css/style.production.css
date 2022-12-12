@@ -246,9 +246,10 @@ Secondary Color (Salmon) #d89d97;
   }
   
   .about-item {
+    display: block;
     padding: 20px;
     text-align: center;
-    width: 742px;
+    width: 722px;
   }
 
   .contact-item {
