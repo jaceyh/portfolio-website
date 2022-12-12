@@ -1,2 +1,2 @@
-# portfolo-website
+# portfolio-website
 Developer Portfolio - Jacey Hallock
